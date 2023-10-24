@@ -1,0 +1,14 @@
+C:\Users\b19TóthS\source\repos\Mars\bin\Debug\netcoreapp3.1\Mars.exe
+C:\Users\b19TóthS\source\repos\Mars\bin\Debug\netcoreapp3.1\Mars.deps.json
+C:\Users\b19TóthS\source\repos\Mars\bin\Debug\netcoreapp3.1\Mars.runtimeconfig.json
+C:\Users\b19TóthS\source\repos\Mars\bin\Debug\netcoreapp3.1\Mars.runtimeconfig.dev.json
+C:\Users\b19TóthS\source\repos\Mars\bin\Debug\netcoreapp3.1\Mars.dll
+C:\Users\b19TóthS\source\repos\Mars\bin\Debug\netcoreapp3.1\Mars.pdb
+C:\Users\b19TóthS\source\repos\Mars\obj\Debug\netcoreapp3.1\Mars.csproj.AssemblyReference.cache
+C:\Users\b19TóthS\source\repos\Mars\obj\Debug\netcoreapp3.1\Mars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b19TóthS\source\repos\Mars\obj\Debug\netcoreapp3.1\Mars.AssemblyInfoInputs.cache
+C:\Users\b19TóthS\source\repos\Mars\obj\Debug\netcoreapp3.1\Mars.AssemblyInfo.cs
+C:\Users\b19TóthS\source\repos\Mars\obj\Debug\netcoreapp3.1\Mars.csproj.CoreCompileInputs.cache
+C:\Users\b19TóthS\source\repos\Mars\obj\Debug\netcoreapp3.1\Mars.dll
+C:\Users\b19TóthS\source\repos\Mars\obj\Debug\netcoreapp3.1\Mars.pdb
+C:\Users\b19TóthS\source\repos\Mars\obj\Debug\netcoreapp3.1\Mars.genruntimeconfig.cache
